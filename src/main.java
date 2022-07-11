@@ -7,5 +7,9 @@ public class main{
         // 아파트 거주자 수 출력
         baekjoon_7_6 code_7_6 = new baekjoon_7_6();
         code_7_6.solution_7_6();
+
+        // 큰 수 합 출력하기
+        baekjoon_7_8 code_7_8 = new baekjoon_7_8();
+        code_7_8.solution_7_8();
     }
 }
