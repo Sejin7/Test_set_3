@@ -12,7 +12,7 @@ public class baekjoon_7_5 {
                     floor = data[0];
                     roomNum = roomNum - 1;
                 }
-                System.out.printf("%d%02d", floor, roomNum);
+                System.out.printf("%d%02d\n", floor, roomNum);
             }
         }
 }
