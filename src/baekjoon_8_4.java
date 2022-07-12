@@ -12,7 +12,7 @@ public class baekjoon_8_4 {
         }
     }
 
-    public static boolean[] get_prime(boolean[] prime) {
+    public static void get_prime(boolean[] prime) {
         prime[0] = prime[1] = true;
         // 에라토스테네스의 체 알고리즘
         for(int i=2; i<=Math.sqrt(prime.length); i++) {
@@ -21,6 +21,5 @@ public class baekjoon_8_4 {
                 prime[j] = true;
             }
         }
-        return prime;
     }
 }
