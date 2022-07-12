@@ -19,5 +19,9 @@ public class main{
         // 자연수 M과 N사이 소수 합과 최소값 출력하기
         baekjoon_8_2 code_8_2 = new baekjoon_8_2();
         code_8_2.solution_8_2();
+
+        // 소인수분해
+        baekjoon_8_3 code_8_3 = new baekjoon_8_3();
+        code_8_3.solution_8_3();
     }
 }
