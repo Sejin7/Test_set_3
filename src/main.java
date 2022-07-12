@@ -31,5 +31,9 @@ public class main{
         // 베르트랑 공준: n과 2n사이 소수 개수 구하기
         baekjoon_8_5 code_8_5 = new baekjoon_8_5();
         code_8_5.solution_8_5();
+
+        // 골드바흐의 추측: n의 골드바흐 파이션을 출력
+        baekjoon_8_6 code_8_6 = new baekjoon_8_6();
+        code_8_6.solution_8_6();
     }
 }
