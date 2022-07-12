@@ -27,5 +27,9 @@ public class main{
         // 소수 구하기: 에라토스테네스의 체 이용
         baekjoon_8_4 code_8_4 = new baekjoon_8_4();
         code_8_4.solution_8_4();
+
+        // 베르트랑 공준: n과 2n사이 소수 개수 구하기
+        baekjoon_8_5 code_8_5 = new baekjoon_8_5();
+        code_8_5.solution_8_5();
     }
 }
