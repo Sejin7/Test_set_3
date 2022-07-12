@@ -23,5 +23,9 @@ public class main{
         // 소인수분해
         baekjoon_8_3 code_8_3 = new baekjoon_8_3();
         code_8_3.solution_8_3();
+
+        // 소수 구하기: 에라토스테네스의 체 이용
+        baekjoon_8_4 code_8_4 = new baekjoon_8_4();
+        code_8_4.solution_8_4();
     }
 }
